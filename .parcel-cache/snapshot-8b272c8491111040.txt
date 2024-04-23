@@ -40,7 +40,7 @@
 118C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\caniuse-lite\data\features\eventsource.js133582795479726446 0
 96C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\@swc\helpers\_\_get133582795478176141 1
 114C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\csso\node_modules\css-tree\lib\syntax133582795476025601 1
-68C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\dist133583120274947636 1
+68C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\dist133583122895972160 1
 146C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\procedure.d.ts.map133582795465813287 0
 73C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\index.css133581616319524791 0
 115C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\css-select\node_modules\dom-serializer133582795463902852 1
@@ -4652,7 +4652,7 @@
 116C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\@swc\helpers\src\_apply_decs_2203_r.mjs133582795479946497 0
 114C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\@swc\helpers\src\_async_generator.mjs133582795480126562 0
 133C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.mjs133582795480266564 0
-87C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\dist\index.9e4c6fd2.css133583097447977923 0
+87C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\dist\index.9e4c6fd2.css133583122895852148 0
 142C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133582795480376602 0
 130C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\@swc\helpers\src\_class_private_field_destructure.mjs133582795480416586 0
 124C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\node_modules\@swc\helpers\esm\_class_apply_descriptor_set.js133582795473054941 0
@@ -5964,5 +5964,5 @@
 90C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\dist\index.401904b5.js.map133583120274917713 0
 86C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\dist\index.7826abd7.js133583097449798102 0
 90C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\dist\index.7826abd7.js.map133583097449978384 0
-91C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\dist\index.9e4c6fd2.css.map133583097448167960 0
 79C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\dist\index.html133583120274727669 0
+91C:\Users\AKSHAY-SINGH\Desktop\Coding all\Namaste React\1. Basic\dist\index.9e4c6fd2.css.map133583122895942173 0
