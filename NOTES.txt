@@ -1,0 +1,48 @@
+1. What is NPM?
+
+Ans :- It's a package manager for the JavaScript programming language.
+NPM is used primarily for managing and sharing JavaScript code, making it easy for developers to reuse code 
+and share their own libraries and frameworks with others. It's particularly popular in the Node.js ecosystem,
+where it's used to install, manage, and publish packages. NPM allows developers to specify dependencies 
+for their projects in a simple way, making it easier to manage complex JavaScript projects.
+
+2. What is `Parcel/Webpack`? Why do we need it?
+Ans :- Parcel and Webpack are both popular module bundlers for JavaScript applications.
+
+Webpack:
+Webpack is a powerful static module bundler for JavaScript applications.
+It takes modules with dependencies and generates static assets, representing those modules,
+along with their dependencies, in a way that browsers can understand. 
+Webpack is highly configurable and allows developers to bundle not only JavaScript 
+files but also assets like CSS, images, and fonts. It's widely used in modern web development
+workflows to optimize and bundle code for production.
+
+Parcel:
+Parcel is another module bundler for JavaScript applications, known for its zero-configuration approach.
+It aims to simplify the development process by automatically analyzing the project's dependency graph 
+and generating optimized bundles without the need for complex configuration files. Parcel supports various 
+types of assets out of the box and offers features like hot module replacement for faster development cycles.
+
+Why do we need them?
+In modern web development, applications are often built using modular JavaScript code, where different 
+pieces of functionality are organized into separate files or modules. However, browsers don't understand 
+this modular structure natively, so developers use module bundlers like Webpack or Parcel to combine these 
+modules into a single bundle that browsers can understand and execute efficiently.
+
+These tools also offer features like code splitting, which allows developers to split their code into smaller 
+chunks that can be loaded dynamically, improving the performance and loading times of web applications. 
+Additionally, they can optimize assets for production by minifying code, removing dead code, and optimizing 
+images, resulting in smaller bundle sizes and faster load times for users. Overall, module bundlers like 
+Webpack and Parcel are essential tools for modern web development, helping developers manage complex projects 
+and optimize performance.
+
+3. What is difference between `dependencies` vs `devDependencies`
+Ans:- dependencies are essential for your application to run, while devDependencies are only necessary for 
+development and testing purposes. When your application is deployed, only the dependencies are typically 
+installed, while devDependencies are usually excluded to keep the production environment lean and efficient.
+
+4. What is the difference between `package.json` and `package-lock.json
+Ans:- package.json is a manually maintained manifest file that describes the project and its dependencies, 
+while package-lock.json is an automatically generated file that provides a detailed record of the specific 
+dependency versions installed in the project. Both files are essential for managing dependencies and ensuring 
+consistent behavior in Node.js projects.

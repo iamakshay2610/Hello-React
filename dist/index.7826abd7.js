@@ -2964,7 +2964,7 @@ const parent = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
 }, /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
     id: "child"
 }, [
-    /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "I am the H1 tag"),
+    /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "I am the H1 tag!"),
     /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "I am the H2 tag")
 ]));
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
